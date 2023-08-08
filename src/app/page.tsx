@@ -48,7 +48,7 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-form gap-3">
             <label
               htmlFor="firstName"
-              className="tezt-zinc-700 text-sm font-medium"
+              className="text-sm font-medium text-zinc-700"
             >
               Name
             </label>
@@ -74,7 +74,7 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-form gap-3 pt-5">
             <label
               htmlFor="email"
-              className="tezt-zinc-700 text-sm font-medium"
+              className="text-sm font-medium text-zinc-700"
             >
               Email address
             </label>
@@ -110,7 +110,7 @@ const Home: React.FC = () => {
           </div>
 
           <div className="grid grid-cols-form gap-3 pt-5">
-            <label htmlFor="role" className="tezt-zinc-700 text-sm font-medium">
+            <label htmlFor="role" className="text-sm font-medium text-zinc-700">
               Role
             </label>
             <Input.Root>
@@ -126,7 +126,7 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-form gap-3 pt-5">
             <label
               htmlFor="country"
-              className="tezt-zinc-700 text-sm font-medium"
+              className="text-sm font-medium text-zinc-700"
             >
               Country
             </label>
@@ -141,7 +141,7 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-form gap-3 pt-5">
             <label
               htmlFor="timezone"
-              className="tezt-zinc-700 text-sm font-medium"
+              className="text-sm font-medium text-zinc-700"
             >
               Timezone
             </label>
